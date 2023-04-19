@@ -1,6 +1,7 @@
 Kunal Kanade
 ### Data Scientist  
-![Data Scientist Learner ]([(https://github.com/KunalKanade22/KunalKanade22/blob/main/Image%20Banner.png))]
+
+![Image Banner](https://user-images.githubusercontent.com/111644826/232967298-69a1ff36-979c-4a10-b208-e07197549a82.png)
 
 ### Welcome to my Github Profile
 I am Kunal and have expertise in retail domain with 11 years of experience in Buying, Supply chain, Brand management and Store operations with Decathlon, Zara, landmark group (UAE), Coolibar (USA) and Reliance Retail. 2+ Years of Experience in Data Modeling, Statistical Modeling and Data Mining in the supply chain, procurement, and inventory. Experience in Requirement Gathering, Data regression
