@@ -47,5 +47,4 @@ applied in the organization.
      1. Supervised Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
      2. Unsupervised Learning Algorithm: Clustering
 
-## 🌐 Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/kunal-kanade-42bab94/))  
+ 
