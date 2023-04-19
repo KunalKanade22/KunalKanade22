@@ -1,7 +1,16 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fen.pimg.jp%2F044%2F341%2F627%2F1%2F44341627.jpg&tbnid=MJA0TTESlPmgNM&vet=12ahUKEwifkZ2A7rT-AhXX13MBHUOJAWcQMygMegUIARDyAQ..i&imgrefurl=https%3A%2F%2Fwww.pixtastock.com%2Fillustration%2F44341627&docid=5z3VSf77d7C6PM&w=450&h=206&q=data%20analyst%20banner%20image&ved=2ahUKEwifkZ2A7rT-AhXX13MBHUOJAWcQMygMegUIARDyAQ)]
-<h1 align="center">Hi 👋, I'm Kunal Kanade</h1>
-<h3 align="center">A passionate problem solver and hungry to learn and enhance the knowledge to give it back to society.</h3>
-<img align="right" alt="Coding" width="400" src=https://tenor.com/en-IN/view/data-analysis-graph-chart-gif-23151718”>
+Kunal Kanade
+### Data Scientist  
+![Data Scientist Learner ]([(https://github.com/KunalKanade22/KunalKanade22/blob/main/Image%20Banner.png))]
+
+### Welcome to my Github Profile
+I am Kunal and have expertise in retail domain with 11 years of experience in Buying, Supply chain, Brand management and Store operations with Decathlon, Zara, landmark group (UAE), Coolibar (USA) and Reliance Retail. 2+ Years of Experience in Data Modeling, Statistical Modeling and Data Mining in the supply chain, procurement, and inventory. Experience in Requirement Gathering, Data regression
+models, and ML algorithms to deliver insight and implement action-oriented solutions. I have exposure to different tools used in Business Intelligence which can help the organization overcome business challenges. The goal is to apply new skills learned during the course to be
+applied in the organization.
+
+## 🔗 About Me:
+- 🌱 I’m currently learning and exploring various Machine learning algorithms and trying to build some reliable models.
+- 🌱 I am looking to collaborate on Data Analysis and Machine Learning projects.
+
 - 🌱 I’m currently learning **Advance Power BI ,Hadoop.**
 
 - 👯 I’m looking to collaborate on **projects on data analysis for research on any topics**
@@ -10,14 +19,32 @@
 
 - 📫 How to reach me **kunalekanade@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+## 💻 Technical Skills: 
+### Python for Data Science: 
+     1. NumPy         2. Pandas         3. Matplotlib       4. Seaborn        5. Scikit Learn
+     
+### R-Studio for Data Science: 
+     1. Statistical Hypothesis     2. Predictive Analytics     3. Machine Learning 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kunal kanade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal kanade" height="30" width="40" /></a>
-</p>
+### Excel: 
+     1. Pivot Table         2. Charts         3. Macros         4. VBA           5. Functions like VLookup, HLookup, XLookup
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+### Database Management (SQL):
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkanade22&show_icons=true&locale=en&layout=compact" alt="kunalkanade22" /></p>
+    1. Window Functions        2. CTE           3. Temporary Tables      4. Joins and Union       5. Subqueries
+
+### Visualization Tools:
+
+     1. Tableau               2. Power BI         3. Exel            4. Python (Seaborn/Matplotlib)      5. R (ggplot)
+
+### Statistics:
+
+     1. Descriptive Statistics      2. Inferential Statistics            3. Hypothesis Testing
+
+### Machine Learning:
+
+     1. Supervised Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
+     2. Unsupervised Learning Algorithm: Clustering
+
+## 🌐 Socials:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/kunal-kanade-42bab94/))  
