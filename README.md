@@ -1,5 +1,5 @@
 Kunal Kanade
-### Data Scientist  
+### Business Analyst | Data Scientist  
 
 ![Image Banner](https://user-images.githubusercontent.com/111644826/232967298-69a1ff36-979c-4a10-b208-e07197549a82.png)
 
